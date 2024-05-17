@@ -1,8 +1,8 @@
-package com.koreait.rest_2024_05.boundedContext.member.article.controller;
+package com.koreait.rest_2024_05.boundedContext.article.controller;
 
 import com.koreait.rest_2024_05.base.rsData.RsData;
-import com.koreait.rest_2024_05.boundedContext.member.article.entity.Article;
-import com.koreait.rest_2024_05.boundedContext.member.article.service.ArticleService;
+import com.koreait.rest_2024_05.boundedContext.article.entity.Article;
+import com.koreait.rest_2024_05.boundedContext.article.service.ArticleService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AllArgsConstructor;

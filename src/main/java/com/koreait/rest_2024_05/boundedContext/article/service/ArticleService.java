@@ -1,9 +1,9 @@
-package com.koreait.rest_2024_05.boundedContext.member.article.service;
+package com.koreait.rest_2024_05.boundedContext.article.service;
 
 import com.koreait.rest_2024_05.base.rsData.RsData;
-import com.koreait.rest_2024_05.boundedContext.member.article.entity.Article;
-import com.koreait.rest_2024_05.boundedContext.member.article.repository.ArticleRepository;
-import com.koreait.rest_2024_05.boundedContext.member.member.entity.Member;
+import com.koreait.rest_2024_05.boundedContext.article.entity.Article;
+import com.koreait.rest_2024_05.boundedContext.article.repository.ArticleRepository;
+import com.koreait.rest_2024_05.boundedContext.member.entity.Member;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

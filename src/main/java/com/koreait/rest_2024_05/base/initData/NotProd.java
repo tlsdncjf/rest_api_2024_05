@@ -1,9 +1,9 @@
 package com.koreait.rest_2024_05.base.initData;
 
 
-import com.koreait.rest_2024_05.boundedContext.member.article.service.ArticleService;
-import com.koreait.rest_2024_05.boundedContext.member.member.entity.Member;
-import com.koreait.rest_2024_05.boundedContext.member.member.service.MemberService;
+import com.koreait.rest_2024_05.boundedContext.article.service.ArticleService;
+import com.koreait.rest_2024_05.boundedContext.member.entity.Member;
+import com.koreait.rest_2024_05.boundedContext.member.service.MemberService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,8 +1,8 @@
 package com.koreait.rest_2024_05.base.security.filter;
 
 import com.koreait.rest_2024_05.base.jwt.JwtProvider;
-import com.koreait.rest_2024_05.boundedContext.member.member.entity.Member;
-import com.koreait.rest_2024_05.boundedContext.member.member.service.MemberService;
+import com.koreait.rest_2024_05.boundedContext.member.entity.Member;
+import com.koreait.rest_2024_05.boundedContext.member.service.MemberService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

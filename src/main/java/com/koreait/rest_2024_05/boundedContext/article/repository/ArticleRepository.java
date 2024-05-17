@@ -1,6 +1,6 @@
-package com.koreait.rest_2024_05.boundedContext.member.article.repository;
+package com.koreait.rest_2024_05.boundedContext.article.repository;
 
-import com.koreait.rest_2024_05.boundedContext.member.article.entity.Article;
+import com.koreait.rest_2024_05.boundedContext.article.entity.Article;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

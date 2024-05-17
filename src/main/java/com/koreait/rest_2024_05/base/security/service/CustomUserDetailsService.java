@@ -1,7 +1,7 @@
 package com.koreait.rest_2024_05.base.security.service;
 
-import com.koreait.rest_2024_05.boundedContext.member.member.entity.Member;
-import com.koreait.rest_2024_05.boundedContext.member.member.repository.MemberRepository;
+import com.koreait.rest_2024_05.boundedContext.member.entity.Member;
+import com.koreait.rest_2024_05.boundedContext.member.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

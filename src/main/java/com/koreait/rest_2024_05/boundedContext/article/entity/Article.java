@@ -1,7 +1,7 @@
-package com.koreait.rest_2024_05.boundedContext.member.article.entity;
+package com.koreait.rest_2024_05.boundedContext.article.entity;
 
 import com.koreait.rest_2024_05.base.entity.BaseEntity;
-import com.koreait.rest_2024_05.boundedContext.member.member.entity.Member;
+import com.koreait.rest_2024_05.boundedContext.member.entity.Member;
 import jakarta.persistence.Entity;
 import jakarta.persistence.ManyToOne;
 import lombok.*;

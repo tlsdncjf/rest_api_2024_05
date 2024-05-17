@@ -1,8 +1,8 @@
-package com.koreait.rest_2024_05.boundedContext.member.member.controller;
+package com.koreait.rest_2024_05.boundedContext.member.controller;
 
 import com.koreait.rest_2024_05.base.rsData.RsData;
-import com.koreait.rest_2024_05.boundedContext.member.member.entity.Member;
-import com.koreait.rest_2024_05.boundedContext.member.member.service.MemberService;
+import com.koreait.rest_2024_05.boundedContext.member.entity.Member;
+import com.koreait.rest_2024_05.boundedContext.member.service.MemberService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;
